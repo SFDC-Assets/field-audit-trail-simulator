@@ -1,7 +1,8 @@
 {
-  "orgName": "aefendiyev company",
-  "edition": "Developer",
+  "orgName": "field audit trail simulator",
+  "edition": "Enterprise",
   "features": ["EnableSetPasswordInApi"],
+  "hasSampleData": "true",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
