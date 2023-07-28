@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Audit</fullName>
+    <fullName>AuditIndex</fullName>
     <fields>
         <name>FieldHistoryType__c</name>
         <sortDirection>ASC</sortDirection>
@@ -13,5 +13,5 @@
         <name>CreatedDate__c</name>
         <sortDirection>DESC</sortDirection>
     </fields>
-    <label>Audit</label>
+    <label>AuditIndex</label>
 </Index>
